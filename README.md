@@ -15,4 +15,4 @@ calculadora feita para particar conceitos do javascript
 
 Modo 1: Voçê pode copiar o código e rodar diretamente no seu navegador
 
-Modo 2: Basta clicar no Link [Minha Calculadora](https://werbeth91.github.io/Calculadora-js){:target="_blank" rel="noopener"}
+Modo 2: Basta clicar no Link [Minha Calculadora](https://werbeth91.github.io/Calculadora-js)
