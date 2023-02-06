@@ -11,8 +11,3 @@ calculadora feita para particar conceitos do javascript
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 )
 
-## Maneiras de utilizar, testar ou vizualizar!!
-
-Modo 1: Voçê pode copiar o código e rodar diretamente no seu navegador
-
-Modo 2: Basta clicar no Link [Minha Calculadora](https://werbeth91.github.io/Calculadora-js)
